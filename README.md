@@ -1,2 +1,2 @@
-# product-landing-paga
+# product-landing-page
 product landing page
